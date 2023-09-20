@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/hayashi/ros2_ws/install/twist_mux/include/**",
+        "/home/hayashi/ros2_ws/install/turtlebot3_gazebo/include/**",
+        "/home/hayashi/ros2_ws/install/turtlebot3_fake_node/include/**",
+        "/home/hayashi/ros2_ws/install/realsense2_camera/include/**",
+        "/home/hayashi/ros2_ws/install/realsense2_camera_msgs/include/**",
+        "/home/hayashi/ros2_ws/install/happy_interfaces/include/**",
+        "/home/hayashi/ros2_ws/install/happy_action_interfaces/include/**",
+        "/home/hayashi/ros2_ws/install/crane_plus_control/include/**",
+        "/home/hayashi/ros2_ws/install/bunker_msgs/include/**",
+        "/home/hayashi/ros2_ws/install/airrobot_interface2/include/**",
+        "/home/hayashi/ros2_ws/install/airobot_interfaces/include/**",
+        "/opt/ros/foxy/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
